@@ -7,6 +7,7 @@ To run the project, you have to execute "chatbot_gui.py" as it serves as the mai
 
 
 **Interacting with the Chat Bot:-**
+
 ![image](https://github.com/PratikshaPandaPKP/Chat-Bot/assets/112324400/c96658a4-55c4-42ff-8cd8-e4c44adf50bb)
 
 ![image](https://github.com/PratikshaPandaPKP/Chat-Bot/assets/112324400/aad6d8bd-d223-4981-8f4d-df4fa2b0c5f4)

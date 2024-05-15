@@ -14,10 +14,12 @@ To run the project, you have to execute "chatbot_gui.py" as it serves as the mai
 
 ![image](https://github.com/PratikshaPandaPKP/Chat-Bot/assets/112324400/a4521cef-9555-4524-aefd-45d429867dd4)
 
+
 **Training the Chat Bot:-**
 ![image](https://github.com/PratikshaPandaPKP/Chat-Bot/assets/112324400/21fc0b5a-ea30-49eb-8677-3fda23b6b604)
 
 ![image](https://github.com/PratikshaPandaPKP/Chat-Bot/assets/112324400/58d2bdcd-532d-404c-a4f4-5c263f51e9af)
+
 
 **After Training:-**
 

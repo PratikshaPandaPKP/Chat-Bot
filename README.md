@@ -1,4 +1,4 @@
-To run the project, you have to execute "chatbot_gui.py" as it serves as the main.py of this project.
+**To run the project, you have to execute "chatbot_gui.py" as it serves as the main.py of this project.**
 
 **After running the source code:-**
 ![image](https://github.com/PratikshaPandaPKP/Chat-Bot/assets/112324400/23f2b498-6bef-41eb-8f27-fea81ee342e3)

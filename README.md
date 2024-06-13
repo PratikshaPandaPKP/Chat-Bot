@@ -27,7 +27,7 @@
 ![image](https://github.com/PratikshaPandaPKP/Chat-Bot/assets/112324400/a07caa7b-f48a-4374-9545-a03ecc92268d)
 
 
-**Link to the project working:-**
+**Video Link to The Project Working:-**
 
 https://www.loom.com/share/4bcfd0d76c4748a2af02b5849f74cb80?sid=f72ed2ed-021e-456f-8447-61ac84a55413
 
